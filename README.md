@@ -5,9 +5,13 @@
 - Increase Speed to Market
 - Build Positive Relationships across the IT Value Chain
 ### Our Process 
-- Text
-- Text
-- Text
+- Determine
+- Design
+-- Decide
+- Develop
+-- Decide 
+- Deploy
+- Done
 ### Our Plus
 - Exchange Insights & Expertise
 - Transparency & Ways of Working   
