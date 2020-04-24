@@ -7,9 +7,9 @@
 ### Our Process 
 - Determine
 - Design
-- -Decide
+* Decide
 - Develop
--- Decide 
+* Decide 
 - Deploy
 - Done
 ### Our Plus
