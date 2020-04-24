@@ -9,7 +9,7 @@
 - Text
 - Text
 ### Our Plus
-- Technical team of experienced professionals
-- Striving to continually improve   
-- Text
+- Exchange Insights & Expertise
+- Transparency & Ways of Working   
+- Establish Trust
 
