@@ -5,11 +5,13 @@
 - Increase Speed to Market
 - Build Positive Relationships across the IT Value Chain
 ### Our Process 
-- Determine
-- Design
-- Develop
-- Decide
-- Deploy
+- Define Scope
+- Discover Needs
+- Determine Product
+- Design Product
+- Develop Product
+- Decide Product Direction
+- Deploy Product
 - Done
 ### Our Plus
 - Exchange Insights & Expertise
