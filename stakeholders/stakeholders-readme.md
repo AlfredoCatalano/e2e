@@ -10,11 +10,12 @@ Typical Key Stakeholders in a Project
 
 The typical key project stakeholders you'll find in any project will include some of the following:
 
-Customers: the direct user of a product or service, often both internal and external to the company executing the project
-Project manager: the project's leader
-Project team members: the group executing the project under the project manager's leadership
-Project sponsor: the project's financier
-Steering committee: advisory group providing guidance on key decisions. Includes the sponsor, executives, and key stakeholders from the organization
-Executives: the top management in the company executing the project, those who direct the organization's strategy
-Resource managers: other managers who control resources needed for executing the project
+- Customers: the direct user of a product or service, often both internal and external to the company executing the project
+- Project manager: the project's leader
+- Project team members: the group executing the project under the project manager's leadership
+- Project sponsor: the project's financier
+- Steering committee: advisory group providing guidance on key decisions. Includes the sponsor, executives, and key   stakeholders from the organization
+- Executives: the top management in the company executing the project, those who direct the organization's strategy
+- Resource managers: other managers who control resources needed for executing the project
+
 There are many more depending on the project, some which may include: sellers/suppliers, contractors, owners, government agencies, media outlets, even society at large.
