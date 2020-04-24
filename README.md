@@ -10,6 +10,7 @@
 - Determine Product
 - Design Product
 - Develop Product
+- Demo Product
 - Decide Product Direction
 - Deliver Product
 - Deploy Product
