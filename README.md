@@ -1,9 +1,9 @@
 # e2e Manifesto
-## Reduce Cost, Increase Speed to Market and Build Positive Relationships across the IT Value Chain.
+### As companies look to improve speed to market and innovate quickly, finding trustworthy partners in the IT supply chain is key for success.
 ### Our Philosophy 
-- Automate the intuitive
-- Remove the disconnects
-- Manage the workflow
+- Reduce Cost
+- Increase Speed to Market
+- Build Positive Relationships across the IT Value Chain
 ### Our Process 
 - Text
 - Text
@@ -12,4 +12,3 @@
 - Exchange Insights & Expertise
 - Transparency & Ways of Working   
 - Establish Trust
-
