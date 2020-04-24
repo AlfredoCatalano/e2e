@@ -8,6 +8,6 @@
 - Text
 - Text
 ## Our Plus
-- Text
-- Text
+- Technical team of experienced professionals
+- Striving to continually improve   
 - Text
