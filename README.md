@@ -1,4 +1,4 @@
 # e2e Manifesto
-- Remove the disconnects
 - Automate the intuitive
+- Remove the disconnects
 - Manage the workflow
