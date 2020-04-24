@@ -8,6 +8,7 @@
 - Determine
 - Design
 - Develop
+- Decide
 - Deploy
 - Done
 ### Our Plus
