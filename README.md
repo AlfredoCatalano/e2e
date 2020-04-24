@@ -1,6 +1,6 @@
 # e2e Manifesto
 ## Reduce Cost, Increase Speed to Market and Build Positive Relationships across the IT Value Chain.
-## Our Philosophy 
+### Our Philosophy 
 - Automate the intuitive
 - Remove the disconnects
 - Manage the workflow
