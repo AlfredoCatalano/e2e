@@ -4,12 +4,12 @@
 - Automate the intuitive
 - Remove the disconnects
 - Manage the workflow
-## Our Process 
+### Our Process 
 - Text
 - Text
 - Text
-## Our Plus
+### Our Plus
 - Technical team of experienced professionals
 - Striving to continually improve   
 - Text
-Reduce Cost, Increase Speed to Market and Build Positive Relationships across the IT Value Chain.
+
