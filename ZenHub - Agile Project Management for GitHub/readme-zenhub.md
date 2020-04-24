@@ -1,1 +1,1 @@
-
+ZenHub is natively integrated into GitHub, using Issues and GitHub’s underlying data to keep project progress up-to-date and your software roadmap on track. Bring project management and your product roadmap closer to the code to increase team productivity while aligning the entire organization around your most critical software projects. ZenHub gives you detailed reporting, customized workspaces and the first ever roadmapping solution inside of GitHub.
