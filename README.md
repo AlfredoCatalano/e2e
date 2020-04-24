@@ -11,8 +11,8 @@
 - Design Product
 - Develop Product
 - Decide Product Direction
+- Deliver Product
 - Deploy Product
-- Done
 ### Our Plus
 - Exchange Insights & Expertise
 - Transparency & Ways of Working   
