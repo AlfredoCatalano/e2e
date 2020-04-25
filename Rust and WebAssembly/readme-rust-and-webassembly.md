@@ -1,3 +1,4 @@
+- https://opensource.com/article/20/1/rust-resources
 - https://doc.rust-lang.org/book/
 - https://rustwasm.github.io/book/
 - https://rust-lang-nursery.github.io/rust-cookbook/
