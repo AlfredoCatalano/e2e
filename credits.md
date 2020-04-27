@@ -8,3 +8,4 @@
 - https://opensource.com/article/18/11/analyzing-devops
 - https://www.quora.com/What-are-the-different-horizontals-and-verticals-in-consulting
 - https://www.jdsupra.com/legalnews/understanding-circuit-breakers-our-new-73705/
+- https://www.nasdaq.com/articles/reg-nms-dummies-2019-05-09
