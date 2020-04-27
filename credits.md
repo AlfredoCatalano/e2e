@@ -9,3 +9,4 @@
 - https://www.quora.com/What-are-the-different-horizontals-and-verticals-in-consulting
 - https://www.jdsupra.com/legalnews/understanding-circuit-breakers-our-new-73705/
 - https://www.nasdaq.com/articles/reg-nms-dummies-2019-05-09
+- https://dart.deloitte.com/USDART/home/accounting/sec/rules-regulations/242-regulations-m-sho-ats-ac/242-regulation-nms-regulation-national-market
