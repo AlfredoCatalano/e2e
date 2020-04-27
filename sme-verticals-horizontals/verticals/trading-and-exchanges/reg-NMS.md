@@ -47,7 +47,6 @@ SIPs: Display NBBO and trades through a single processor.
 - 605 Execution Quality: Only “held” (covered) orders required to report (so predominantly retail orders). Compute average time to trade, effective spread paid, price improvement, percentage of orders executed outside the quote and average cents through NBBO.
 
 - 606 Routing: This currently applies to small orders only (under $200,000) and requires disclosure of Top 10 routing destinations by brokers, financial incentives with destinations including PFOF and profit sharing.
-
 Note1: An expanded 606 is currently in implementation (the deadline was recently extended to Oct 1, 2019). This will include fulfillment data and allow institutional customers to request a customized report on their own routes.
 
 - 607 Customer Statements: Must disclose annually PFOF policies with all routing partners, including when there is price improvement.
