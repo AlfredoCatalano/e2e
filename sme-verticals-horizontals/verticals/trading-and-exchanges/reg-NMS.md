@@ -70,3 +70,4 @@ Trade-through: Banned (with exceptions).
 /sec/rules-regulations/242-regulations-m-sho-ats-ac/242-regulation-nms-regulation-national-market)
 
 
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
