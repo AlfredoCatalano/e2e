@@ -7,3 +7,4 @@
 - https://productcoalition.com/how-i-use-gist-for-personal-planning-3988230bb3e1
 - https://opensource.com/article/18/11/analyzing-devops
 - https://www.quora.com/What-are-the-different-horizontals-and-verticals-in-consulting
+- https://www.jdsupra.com/legalnews/understanding-circuit-breakers-our-new-73705/
