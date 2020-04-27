@@ -3,3 +3,4 @@
 - https://www.gartner.com/smarterwithgartner/align-it-functions-with-business-strategy-using-the-run-grow-transform-model/
 - https://dzone.com/articles/designing-microservice-canvas-from-non-dev-perspec
 - https://dzone.com/articles/streamlined-microservice-design-in-practice
+- https://dzone.com/articles/are-you-being-technology-agnostic
