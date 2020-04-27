@@ -4,3 +4,4 @@
 - https://dzone.com/articles/designing-microservice-canvas-from-non-dev-perspec
 - https://dzone.com/articles/streamlined-microservice-design-in-practice
 - https://dzone.com/articles/are-you-being-technology-agnostic
+- https://productcoalition.com/how-i-use-gist-for-personal-planning-3988230bb3e1
