@@ -1,4 +1,4 @@
-**The three pillars of a strong client-partner relationship.**
+**The three pillars of a strong team-client-partner relationship.**
 
 In order to keep the product release train moving, meet critical deadlines, and share information – transparency and understanding ways of working are essential.
 
