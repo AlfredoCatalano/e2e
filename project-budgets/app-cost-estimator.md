@@ -1,6 +1,6 @@
 **How Much Will My App Cost?**
 
-| **Functionality**               | Cost  |
+| Functionality                   | Cost  |
 | ----------------------------    | -----:|
 | Do users log in?                | $1600 |
 | Do users create profiles?       |   $12 |
