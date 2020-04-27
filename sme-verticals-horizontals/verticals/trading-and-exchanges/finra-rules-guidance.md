@@ -1,2 +1,20 @@
+**Purpose and Function**
+
+The stock market crash of 1929 led to major legislation that would forever alter the landscape of the securities markets. The ensuing economic analysis of the crash made it clear that the securities markets and their participants needed greater governmental regulation. This led to the creation of the National Association of Securities Dealers, a self-regulatory agency that oversaw all of the activities of all broker-dealers and registered securities personnel nationwide. This organization has since been reorganized into the Financial Industry Regulatory Authority (FINRA), which continues its function of regulating all aspects of the securities markets in America today. 
+
+FINRA regulates the securities industry in many capacities, and has broad powers over the securities industry that must be obeyed by all investors and participants. There are four main avenues that FINRA pursues in its effort to protect investors and oversee the securities markets in America:
+
+**Investor Protection and Education** – FINRA has undertaken a number of projects aimed at both researching and educating the public on the world of investments. Its website has several educational modules that cover various investment topics, such as investment fraud and financial education for members of the military. FINRA also sponsors an arbitration program that allows investors to take brokers and other registered representatives and their firms through a mediation process in the event of a dispute. Almost all new account applications that are used by member firms now include wording that assures customers of this right - and also forces them to waive their right to use the court system instead. The arbitration system consists of thousands of qualified members and panelists who are trained to provide unbiased judgment in hearings between investors and brokers as well as member firms and their employees.
+
+**Broker-Dealer Registration** – All companies who wish to sell securities in America are required to register with FINRA in order to become a licensed broker-dealer. Any firm that fails to do so is subject to fines, penalties and other legal action and can be shut down if necessary.
+
+**Securities Licensure and Exams** – FINRA oversees over 600,000 personnel in the U.S. in several capacities. First, it requires all of them to undergo a rigorous background check in an effort to screen out those who have criminal records. Each of them must also be properly licensed before they are allowed to conduct securities transactions of any kind. In order to become licensed, each registered representative must pass an exam that tests them on the subject matter pertinent to the securities and transaction with which they will be dealing. There are numerous licenses in the securities industry, such as:
+
+- Series 6 – This license allows holders to sell packaged investment products, such as mutual funds, variable annuities and unit investment trusts. This license is popular with financial planners, insurance agents and bank employees.
+- Series 7 – This license allows holders to sell virtually every type of security or investment in existence, except for futures contracts, real estate and life insurance.
+- Series 63 – This license covers state blue-sky laws and must be obtained by every registered representative in addition to the Series 6, 7 or other license.
+- Series 4, 24 and 26 – These licenses are for those who supervise registered representatives and cover all relevant administrative and regulatory topics, such as branch margin requirements and options regulations. 
+
+**Recordkeeping and Disciplinary History** – FINRA keeps extensive records of all of the activities of every member firm and representative in the securities industry. Firms and employees are required to report all of the activities in which they engage to FINRA on a timely basis. Any disciplinary action that is taken against any rep is recorded permanently on form U6, which can be accessed by the public on FINRA's website.
 
 [FINRA Manual](https://www.finra.org/rules-guidance/rulebooks)
