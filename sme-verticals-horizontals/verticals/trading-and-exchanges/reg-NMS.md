@@ -66,4 +66,4 @@ Trade-through: Banned (with exceptions).
 
 - 613 CAT: The Consolidated Audit Trail is designed to collect detailed data on every order, execution and amendment in the market across all participants.
 
-[**Complete Reference for 242 — Regulation NMS — Regulation of the National Market System**](https://dart.deloitte.com/USDART/home/accounting/sec/rules-regulations/242-regulations-m-sho-ats-ac/242-regulation-nms-regulation-national-market)
+[**242 — Regulation NMS — Regulation of the National Market System**](https://dart.deloitte.com/USDART/home/accounting/sec/rules-regulations/242-regulations-m-sho-ats-ac/242-regulation-nms-regulation-national-market)
