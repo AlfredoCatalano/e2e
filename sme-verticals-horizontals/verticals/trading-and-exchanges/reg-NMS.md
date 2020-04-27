@@ -20,14 +20,14 @@ NMS = 14 rules to help and protect investors
 
 There are 14 separate “rules” that makeup Reg NMS (see Table 1 below), which are grouped into six main categories with some common themes:
 
-- 01 Definitions: Rule 600 defines concepts and terms, which is sometimes pivotal to how the later rules work.
-- 02 Fairness in INFORMATION: Rules 601-603 are about reporting trades and quotes to the Securities Information Processors (SIPs), ensuring access to data by exchanges.
-- 03 Broker ACCOUNTABILITY: Rules 604-607 are special reporting and trading rules designed to mostly protect retail investors.
-- 04 SRO rules: Rules 608 and 609 set rules for what Self Regulating Organizations (SROs) need to do to publicly change rules, including SIP operations.
-- 05 Fairness in TRADING: Rules 610-612 cover trading rules like protected quotes, decimal ticks, access fee caps.
-- 06 CAT: Rule 613 is relatively new rule, covering the consolidated audit trail (CAT).
+- **01 Definitions: Rule 600** defines concepts and terms, which is sometimes pivotal to how the later rules work.
+- **02 Fairness in INFORMATION: Rules 601-603** are about reporting trades and quotes to the Securities Information Processors (SIPs), ensuring access to data by exchanges.
+- **03 Broker ACCOUNTABILITY: Rules 604-607** are special reporting and trading rules designed to mostly protect retail investors.
+- **04 SRO rules: Rules 608 and 609** set rules for what Self Regulating Organizations (SROs) need to do to publicly change rules, including SIP operations.
+- **05 Fairness in TRADING: Rules 610-612** cover trading rules like protected quotes, decimal ticks, access fee caps.
+- **06 CAT: Rule 613** is relatively new rule, covering the consolidated audit trail (CAT).
 
-**Summary of what Reg NMS rules cover
+**Summary of what Reg NMS rules cover**
 
 RuleKey Features
 
