@@ -6,3 +6,4 @@
 - https://dzone.com/articles/are-you-being-technology-agnostic
 - https://productcoalition.com/how-i-use-gist-for-personal-planning-3988230bb3e1
 - https://opensource.com/article/18/11/analyzing-devops
+- https://www.quora.com/What-are-the-different-horizontals-and-verticals-in-consulting
