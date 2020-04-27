@@ -36,33 +36,33 @@ RuleKey Features
 601 Trade dissemination: All trades must be reported. Exchanges report directly to SIPs. TRF is created for brokers to report “off exchange” trades.
 Data costs: SRO’s may impost reasonable, uniform charges for trade dissemination.
 
-602 Quote dissemination: Exchanges must report all bids and offers, quote size and cancels.
+- 602 Quote dissemination: Exchanges must report all bids and offers, quote size and cancels.
 ECNs: Publish actionable quotes.
 
-603 Equal Access: Distribution of information on fair and reasonable terms – not unreasonably discriminatory.
+- 603 Equal Access: Distribution of information on fair and reasonable terms – not unreasonably discriminatory.
 SIPs: Display NBBO and trades through a single processor.
 
-604 Held Orders: Must be immediately displayed, in full size, if marketable. Exceptions for internalized, odd lots or block sized orders.
+- 604 Held Orders: Must be immediately displayed, in full size, if marketable. Exceptions for internalized, odd lots or block sized orders.
 
-605 Execution Quality: Only “held” (covered) orders required to report (so predominantly retail orders). Compute average time to trade, effective spread paid, price improvement, percentage of orders executed outside the quote and average cents through NBBO.
+- 605 Execution Quality: Only “held” (covered) orders required to report (so predominantly retail orders). Compute average time to trade, effective spread paid, price improvement, percentage of orders executed outside the quote and average cents through NBBO.
 
-606 Routing: This currently applies to small orders only (under $200,000) and requires disclosure of Top 10 routing destinations by brokers, financial incentives with destinations including PFOF and profit sharing.
+- 606 Routing: This currently applies to small orders only (under $200,000) and requires disclosure of Top 10 routing destinations by brokers, financial incentives with destinations including PFOF and profit sharing.
 
 Note1: An expanded 606 is currently in implementation (the deadline was recently extended to Oct 1, 2019). This will include fulfillment data and allow institutional customers to request a customized report on their own routes.
 
-607 Customer Statements: Must disclose annually PFOF policies with all routing partners, including when there is price improvement.
+- 607 Customer Statements: Must disclose annually PFOF policies with all routing partners, including when there is price improvement.
 
-608 NMS Plans: Any two SRO’s may propose changes to NMS via an NMS plan.
+- 608 NMS Plans: Any two SRO’s may propose changes to NMS via an NMS plan.
 
-609 SIP Registration: Including applications for changes to rules of the SIP must be submitted on “Form SIP.”
+- 609 SIP Registration: Including applications for changes to rules of the SIP must be submitted on “Form SIP.”
 
-610 Equal Access: Exchanges must offer all customers the same rate schedule and access to trades.
+- 610 Equal Access: Exchanges must offer all customers the same rate schedule and access to trades.
 Access fees: Limited to 30mils (silent on rebates).
 Locked and crossed markets: Exchanges should stop them from happening and have policies to unlock them if they do.
 
-611 Protected Quotes: Can’t route so you trade at prices worse than SIP NBBO. This includes off-exchange trades.
+- 611 Protected Quotes: Can’t route so you trade at prices worse than SIP NBBO. This includes off-exchange trades.
 Trade-through: Banned (with exceptions).
 
-612 Decimals: Orders can only be in decimals. There are no rules requiring executions to be in whole pennies.
+- 612 Decimals: Orders can only be in decimals. There are no rules requiring executions to be in whole pennies.
 
-613 CAT: The Consolidated Audit Trail is designed to collect detailed data on every order, execution and amendment in the market across all participants.
+- 613 CAT: The Consolidated Audit Trail is designed to collect detailed data on every order, execution and amendment in the market across all participants.
