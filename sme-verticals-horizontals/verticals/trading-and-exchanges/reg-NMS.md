@@ -2,6 +2,8 @@
 
 Reg stands for Regulation and NMS stands for National Market System. It was introduced in 2005 and became law in 2007.
 
+[242 — Regulation NMS — Regulation of the National Market System](https://dart.deloitte.com/USDART/home/accounting/sec/rules-regulations/242-regulations-m-sho-ats-ac/242-regulation-nms-regulation-national-market)
+
 NMS helped investors in an already automating market
 
 Reg NMS is a set of rules that defines how trading works in the U.S. for all listed stocks.
