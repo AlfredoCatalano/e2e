@@ -10,5 +10,5 @@ Examples: Strategy, Operations, Asset Management, Customer Relationship Manageme
 
 In the day to day work, there is a clear overlap between verticals & horizontals - a team implementing a CRM tool for an energy supplier will usually consist of consultants from the CRM service line & consultants from the Utilities practice.
 
-Subject Matter Experts are true leaders in their industry with a command of a full spectrum of industry channels and disciplines.
+Subject Matter Experts (SMEs) are true leaders in their industry with a command of a full spectrum of industry channels and disciplines.
 
