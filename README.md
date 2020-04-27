@@ -1,5 +1,5 @@
 # e2e Manifesto
-### As companies look to improve speed to market and innovate quickly, finding trustworthy partners in the IT supply chain is key for success.
+As companies look to improve speed to market and innovate quickly, finding trustworthy partners in the IT supply chain is key for success.
 ### Our Philosophy 
 - Reduce Cost
 - Increase Speed to Market
