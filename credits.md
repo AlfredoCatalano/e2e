@@ -11,3 +11,4 @@
 - https://www.nasdaq.com/articles/reg-nms-dummies-2019-05-09
 - https://dart.deloitte.com/USDART/home/accounting/sec/rules-regulations/242-regulations-m-sho-ats-ac/242-regulation-nms-regulation-national-market
 - https://itsupplychain.com/
+- https://www.nutcache.com/blog/10-ways-to-build-trust-with-your-project-teams/
