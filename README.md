@@ -15,6 +15,6 @@ As companies look to improve speed to market and innovate quickly, finding trust
 - Deliver Product
 - Deploy Product
 ### Our Plus
-- Exchange Insights & Expertise
-- Transparency & Ways of Working   
 - Establish Trust
+- Transparency & Ways of Working   
+- Exchange Insights & Expertise 
