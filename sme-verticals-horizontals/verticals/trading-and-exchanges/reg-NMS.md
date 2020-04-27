@@ -29,6 +29,7 @@ There are 14 separate “rules” that makeup Reg NMS (see Table 1 below), which
 
 **Summary of what Reg NMS rules cover**
 
+RuleKey Features
 - 600 Definitions: Defines the concepts used in NMS, including what is a SIP, NBBO, protected quote, automated quote, SRO, block size, NMS stock, trade through, ISO order, etc.
 
 - 601 Trade dissemination: All trades must be reported. Exchanges report directly to SIPs. TRF is created for brokers to report “off exchange” trades.
