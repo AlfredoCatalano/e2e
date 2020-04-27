@@ -2,5 +2,5 @@
 
 Through rule changes approved by the SEC in 2012, U.S. equity, options, and future exchanges (including, but not limited to NYSE and NASDAQ, and Cboe) are required to impose trading halts when the market as a whole—measured by the S&P 500® index—experiences steep single-day declines. The MWCBs temporarily halt trading in all National Market System (“NMS”) securities in the event a MWCB is breached. The triggering benchmarks are as follows:
 
-![MWCB](link-to-image)
+![MWCB](https://github.com/alfredo-catalano/e2e/blob/master/images/MW-Circuit-Breakers-1100x575.jpg)
 
