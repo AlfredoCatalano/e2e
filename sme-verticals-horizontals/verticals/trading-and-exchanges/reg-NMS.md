@@ -31,7 +31,7 @@ There are 14 separate “rules” that makeup Reg NMS (see Table 1 below), which
 
 RuleKey Features
 
-[**242 — Regulation NMS — Regulation of the National Market System**](https://dart.deloitte.com/USDART/home/accounting
+[242 — Regulation NMS — Regulation of the National Market System](https://dart.deloitte.com/USDART/home/accounting
 /sec/rules-regulations/242-regulations-m-sho-ats-ac/242-regulation-nms-regulation-national-market)
 
 - 600 Definitions: Defines the concepts used in NMS, including what is a SIP, NBBO, protected quote, automated quote, SRO, block size, NMS stock, trade through, ISO order, etc.
