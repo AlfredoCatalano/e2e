@@ -1,0 +1,3 @@
+The Securities Exchange Act of 1934 ("Exchange Act" or "Act") governs the way in which the nation's securities markets and its brokers and dealers operate. We have prepared this guide to summarize some of the significant provisions of the Act and its rules. You will find information about whether you need to register as a broker-dealer and how you can register, as well as the standards of conduct and the financial responsibility rules that broker-dealers must follow.
+
+![Guide to Broker-Dealer Registration](https://www.sec.gov/reportspubs/investor-publications/divisionsmarketregbdguidehtm.html)
