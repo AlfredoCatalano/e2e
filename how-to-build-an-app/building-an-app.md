@@ -5,5 +5,23 @@ Every app must have a proper blueprint outlining what's being built, the resourc
 - Cost
 - Time
 - Resources
- 
+
+**System Architecture**
+- Cloud Provider
+- Databases
+- Message Brokers
+
+**wireframe**
+- Cloud Provider
+- Databases
+
+**Integration**
+- 3rd Party APIs
+
+
+**UI Design**
+- Cloud Provider
+- Databases
+
+
  
