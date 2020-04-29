@@ -25,6 +25,7 @@ Project Management
 - http://ftp.onem2m.org/Templates/
 - https://www.onem2m.org/technical/published-drafts/release-3
 - https://pm.stackexchange.com/questions/27700/classic-ba-role-in-agile-scaled-agile
+- http://neil.minkley.fr/pm/
 
 Microservices
 
