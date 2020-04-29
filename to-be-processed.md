@@ -27,6 +27,15 @@ Project Management
 - https://pm.stackexchange.com/questions/27700/classic-ba-role-in-agile-scaled-agile
 - http://neil.minkley.fr/pm/
 
+Case Studies
+
+- https://aws.amazon.com/solutions/case-studies/finra-data-validation/
+- https://aws.amazon.com/lambda/resources/customer-case-studies/
+
+
+
+ 
+
 Microservices
 
 - https://news.ycombinator.com/item?id=17505131
