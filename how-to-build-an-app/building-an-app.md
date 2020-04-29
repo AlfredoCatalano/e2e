@@ -37,6 +37,13 @@ During the early stages, it is important to conduct several consultations with t
 - Expectations
 - Deliverables
 
+**Requirements**
+
+By describing your product in key “user stories” (A.K.A. Features) our development team can better understand your product’s requirements. Once we have the complete picture of what it will do, we can prioritize those features for a release and start designing how it will work.
+
+- Business Requirements
+- User Stories
+
 **Wireframing**
 
 Wireframing refers to the visual architecture of the app; what will go on each page and how it all links together. Wireframing is a crucial step for visualising and defining the scope of an app and its functionality. This app ‘blueprint’ allows the development team to understand and interpret what you are after.
@@ -46,7 +53,7 @@ Wireframing refers to the visual architecture of the app; what will go on each p
 
 **UI Design**
 
-The design process begins once wireframing is complete. Designing the user interface is crucial for engaging and navigating app users. During this stage, interactive app mockups are created to demonstrate what the app will look like and how it will function. This is where important design elements such as logos, colours, styling and fonts will be fleshed out. At this point, your app should be both aesthetically pleasing and functional. It is important to seek feedback during this stage on the app’s appearance and usability.
+The design process begins once wireframing is complete. Designing the user interface is crucial for engaging and navigating app users. During this stage, interactive app mockups are created to demonstrate what the app will look like and how it will function. This is where important design elements such as logos, colours, styling and fonts will be fleshed out. At this point, your app should be both aesthetically pleasing and functional. It is important to seek feedback during this stage on the app’s appearance and usability. The design team visualizes the product with prototyping tools to create clickable prototypes that look and behave like the real thing. By visualizing the product, you know exactly what is being built and what to expect.
 
 - Colors
 - Fonts
