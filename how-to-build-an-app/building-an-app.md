@@ -22,6 +22,8 @@ Before entering the next stage, make sure the following questions have been cons
 
 During the Pre-Development Phase, get to know how your business model works and what you’re trying to achieve with your new product (whether it’s a web app, mobile app or integration). You need to fully understand the motivation behind the product and the audience you are building for.
 
+Here we focus on product/market fit. So many products are built incorrectly for their audiences, or for the wrong audience altogether. We ask the question, “is this the right solution to the right problem?”
+
 It is recommended to start small when developing an app; what are the minimum requirements to test and prove the concept in the market? Once the first version of the app is developed and launched, you can create new app features and updates based on user feedback.
 
 **Project Scoping**
