@@ -16,8 +16,8 @@ Once you've got the system architecture right, the next step is framing your app
 The wireframe for your app helps you think through the navigation and what each screen will eventually look like before development work starts. Once you've got the wireframe for your app, it's time to start thinking about how to wire it up. This means adding the features and functionality your app will need.
 
 **Wireframe**
-- Cloud Provider
-- Databases
+- Navigation
+- Screens
 
 Half of apps built require integration with other utilities. Modern apps rely on external services and other utilities to add features, like sharing content on Facebook, adding payment processing to an app, or displaying maps based on a user's current location.
 
