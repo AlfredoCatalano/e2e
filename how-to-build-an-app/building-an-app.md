@@ -27,8 +27,9 @@ Half of apps built require integration with other utilities. Modern apps rely on
 Making your app look world-class takes a lot of effort and the right team. Every detail must be evaluated. Every color much compliment. Every button must be pixel perfect. If done right, you’ve got a lot of happy folks. 
 
 **UI Design**
-- Cloud Provider
-- Databases
+- Colors
+- Fonts
+- Pixels
 
 
  
