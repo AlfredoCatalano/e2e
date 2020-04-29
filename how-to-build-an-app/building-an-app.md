@@ -8,6 +8,8 @@ Every app must have a proper roadmap and blueprint outlining what's being built,
 
 Intensive workshops between both the business and development teams to bring toegther the expertise needed to determine the solution or product trying to be built.The goal is getting to the heart of the problem trying to be solved, estimate the development costs correctly, and help build the right solution, the first time.
 
+Putting a clickable prototype into the hands of your target audience saves time and money by identifying errors or confusion before development, when changes are easier to implement.
+
 The result is a project that is accurately estimated, thoroughly visualized, prototyped and tested before a single line of code is ever written.
 
 **Pre-Development**
