@@ -1,11 +1,14 @@
+**Roadmap**
+
 The best approach when building an app is to employ a professional app development team or firm who showcase a range of expertise. When choosing a developer firm, it is important to consider their reputation, reviews and portfolio. But bear in mind, when it comes to app development cheaper is not always better, and this is generally reflected in the quality of the app.
 
 A recent survey by Clutch revealed that the cost of mobile app development ranges between $30,000 to $700,000, with a calculated median cost of $171,450. If budget is a concern, it may be worthwhile looking into an app development platform rather than a custom development approach.
 
-Every app must have a proper blueprint outlining what's being built, the resources required, and a timeline for development. With a blueprint for an app in place, a development team can get started having a foundation.
+Every app must have a proper roadmap and blueprint outlining what's being built, the resources required, and a timeline for development. With a roadmap and blueprint for an app in place, a development team can get started having a solid foundation.
 
-"It’s a consultation intensive between our team and yours before development, where we lend our expertise on the tech driven solution or product you are trying to build. It’s customized to you, so we can get to the heart of the problem you’re trying to solve, estimate your development costs correctly, and help you build the right solution, the first time.
-The result is a project that is accurately estimated, thoroughly visualized, prototyped and tested before a single line of code is ever written."
+Intensive workshops between both the business and development teams to bring toegther the expertise needed to determine the solution or product trying to be built.The goal is getting to the heart of the problem trying to be solved, estimate the development costs correctly, and help build the right solution, the first time.
+
+The result is a project that is accurately estimated, thoroughly visualized, prototyped and tested before a single line of code is ever written.
 
 **Pre-Development**
 
@@ -16,6 +19,8 @@ Before entering the next stage, make sure the following questions have been cons
 - What exactly do you want your app to do?
 - How are you going to make your app appeal to users?
 - What problem is the app going to solve?
+
+During the Pre-Development Phase, get to know how your business model works and what you’re trying to achieve with your new product (whether it’s a web app, mobile app or integration). You need to fully understand the motivation behind the product and the audience you are building for.
 
 It is recommended to start small when developing an app; what are the minimum requirements to test and prove the concept in the market? Once the first version of the app is developed and launched, you can create new app features and updates based on user feedback.
 
