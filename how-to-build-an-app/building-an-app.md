@@ -1,3 +1,7 @@
+The best approach when building an app is to employ a professional app development team or firm who showcase a range of expertise. When choosing a developer firm, it is important to consider their reputation, reviews and portfolio. But bear in mind, when it comes to app development cheaper is not always better, and this is generally reflected in the quality of the app.
+
+A recent survey by Clutch revealed that the cost of mobile app development ranges between $30,000 to $700,000, with a calculated median cost of $171,450. If budget is a concern, it may be worthwhile looking into an app development platform rather than a custom development approach.
+
 Every app must have a proper blueprint outlining what's being built, the resources required, and a timeline for development. With a blueprint for an app in place, a development team can get started having a foundation. 
 
 **Blueprint**
