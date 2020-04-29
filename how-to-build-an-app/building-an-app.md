@@ -35,5 +35,24 @@ Making your app look world-class takes a lot of effort and the right team. Every
 - Fonts
 - Pixels
 
+After development, it is important to test the app for functionality, performance and optimisation. Once a version of the app is completed, beta testing (or user testing) can commence. This is a crucial element of app development, therefore it is important to check that any contract with a development team includes beta testing. During this stage, the app is examined under various conditions to ensure it is bug-free and that users are comfortable with the interface. Android beta testing is a somewhat simple process, the app file is uploaded onto any android device and tested live. iOS, on the other hand, prefers to test in a controlled environment. Consequently, iOS requires the use of the platform TestFlight in order to test the app.
+
+**Beta Testing**
+- UI Testing
+- Functionality Testing
+
+
+The app is finally finished, tested and ready to launch! It is important to understand that publishing an app to the marketplace is a process that may take a couple of weeks. This is due to the fact that each iOS app is manually reviewed before the app can go live. Apple may also request changes to the app during this time. On the other hand, apps can be added to the Android Google Play store instantly and might not be reviewed straight away. However, in order to publish and sell the app, developer accounts will need to be created for the respective app marketplace(s). These accounts can be registered as an individual or company, and are charged as a yearly fee.
+
+**App Launch**
+- Publishing
+- Review
+
+After launching the app, it is important to gather user feedback. This will help guide any future app updates, as well as ensuring app functionality and usability. It is also important to utilise analytics in order to track app performance. Inbuilt app analytics allows businesses to track downloads, user engagement and retention. This usage behaviour will help provide insight into how to improve the app and enhance the user experience.
+
+**Post-Launch**
+- User Feedback
+- Analytics
+
 
  
